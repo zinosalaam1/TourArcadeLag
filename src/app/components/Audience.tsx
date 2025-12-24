@@ -15,7 +15,7 @@ const audiences = [
     label: "Startup Founders & Innovators",
     count: 200,
     suffix: "+",
-    color: "pink",
+    color: "purple",
   },
   {
     icon: Building2,
