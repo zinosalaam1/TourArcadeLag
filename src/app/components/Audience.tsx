@@ -29,21 +29,21 @@ const audiences = [
     label: "Tech & Gaming Companies",
     count: 100,
     suffix: "+",
-    color: "blue",
+    color: "purple",
   },
   {
     icon: Palette,
     label: "Creators & Developers",
     count: 300,
     suffix: "+",
-    color: "green",
+    color: "purple",
   },
   {
     icon: GraduationCap,
     label: "Students & Young Professionals",
     count: 500,
     suffix: "+",
-    color: "orange",
+    color: "purple",
   },
 ];
 
