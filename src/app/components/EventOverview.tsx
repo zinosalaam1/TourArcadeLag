@@ -77,7 +77,7 @@ export function EventOverview() {
             Why This Matters
           </h2>
           <p className="text-xl md:text-3xl text-gray-200 max-w-5xl mx-auto leading-relaxed">
-            Not just an event — a <span className="text-purple-400 font-semibold">movement</span> designed to bring together gamers, 
+            Not just an event, a <span className="text-purple-400 font-semibold">movement</span> designed to bring together gamers, 
             creators, founders, investors, and brands into one <span className="text-cyan-400 font-semibold">high-energy ecosystem</span>.
           </p>
         </motion.div>
